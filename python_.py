@@ -46,7 +46,6 @@ print("\nNo numerical columns found in this dataset!")
 
 # -----------------------------
 # STEP 3: Data Quality Assessment
-# -----------------------------
 print("=" * 50)
 print("DATA QUALITY ASSESSMENT")
 print("=" * 50)
